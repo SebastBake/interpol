@@ -1,5 +1,5 @@
 # interpol
-A C library for interpolating data.
+A C program to interpolate data.
 
 Using the lagrange method will produce a polynomial of order n-1 through each of the n points provided.
 
